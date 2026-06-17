@@ -1,0 +1,6 @@
+@_13Laba_Proga_HostAddress = http://localhost:5197
+
+GET {{_13Laba_Proga_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
